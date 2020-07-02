@@ -9,7 +9,7 @@ This augmented reality iOS app allows Pokemon cards to project 3D Pokemon above 
 ![](Pokemon.gif)
 
 ##
-<img style="float:left" src="https://github.com/nareshribabu/AR-AugmentedReality-Pokemon/blob/master/all3.PNG" alt="all3" width="770"/>
+<img style="float:left" src="https://github.com/nareshribabu/AR-AugmentedReality-Pokemon/blob/master/all3.PNG" alt="all3" width="760"/>
 
 ## 
 
