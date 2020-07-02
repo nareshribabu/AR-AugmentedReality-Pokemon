@@ -10,11 +10,9 @@ This augmented reality iOS app allows Pokemon cards to project 3D Pokemon above 
 ![](all3.PNG)
 
 ## 
-<div>
 ![](charmander.PNG)
 ![](eevee.jpg)
 ![](oddish.PNG)  
-</div>
 
 ## Technology Used:
 
