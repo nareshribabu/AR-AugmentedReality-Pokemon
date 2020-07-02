@@ -6,7 +6,7 @@ This augmented reality iOS app allows Pokemon cards to project 3D Pokemon above 
 - Uses image tracking to track the card
 
 ## Demo:
-![](Pokemon.gif)
+<img style="float:left" src="https://github.com/nareshribabu/AR-AugmentedReality-Pokemon/blob/master/Pokemon.gif" alt="all3" width="250"/>
 
 ##
 <img style="float:left" src="https://github.com/nareshribabu/AR-AugmentedReality-Pokemon/blob/master/all3.PNG" alt="all3" width="760"/>
